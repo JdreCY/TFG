@@ -1,7 +1,0 @@
-C:\Users\Jdre8\Documents\Projects\DLLTest\bin\Debug\DLLTest.dll
-C:\Users\Jdre8\Documents\Projects\DLLTest\bin\Debug\DLLTest.pdb
-C:\Users\Jdre8\Documents\Projects\DLLTest\bin\Debug\UnityEngine.dll
-C:\Users\Jdre8\Documents\Projects\DLLTest\bin\Debug\UnityEngine.xml
-C:\Users\Jdre8\Documents\Projects\DLLTest\obj\Debug\DLLTest.csprojResolveAssemblyReference.cache
-C:\Users\Jdre8\Documents\Projects\DLLTest\obj\Debug\DLLTest.dll
-C:\Users\Jdre8\Documents\Projects\DLLTest\obj\Debug\DLLTest.pdb
