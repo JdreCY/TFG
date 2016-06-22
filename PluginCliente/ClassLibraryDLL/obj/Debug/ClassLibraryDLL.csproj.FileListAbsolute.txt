@@ -1,0 +1,6 @@
+C:\Users\Jdre8\Documents\Visual Studio 2015\Projects\ClassLibraryDLL\bin\Debug\UnityEngine.dll
+C:\Users\Jdre8\Documents\Visual Studio 2015\Projects\ClassLibraryDLL\bin\Debug\UnityEngine.xml
+C:\Users\Jdre8\Documents\Visual Studio 2015\Projects\ClassLibraryDLL\bin\Debug\PluginCliente.dll
+C:\Users\Jdre8\Documents\Visual Studio 2015\Projects\ClassLibraryDLL\bin\Debug\PluginCliente.pdb
+C:\Users\Jdre8\Documents\Visual Studio 2015\Projects\ClassLibraryDLL\obj\Debug\PluginCliente.dll
+C:\Users\Jdre8\Documents\Visual Studio 2015\Projects\ClassLibraryDLL\obj\Debug\PluginCliente.pdb
